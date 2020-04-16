@@ -8,7 +8,10 @@ Ura si la gara
 ## Purpose
 
 Sample website with plenty of files for demos
+cici mici
+
 
 ## Deployment
 
+uahahahaa
 ## How to contribute
