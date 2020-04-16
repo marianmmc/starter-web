@@ -15,3 +15,7 @@ cici mici
 
 uahahahaa
 ## How to contribute
+
+###Copyright
+
+asdasdasda
